@@ -53,3 +53,11 @@
 
 ### Change Windows 10 Theme
 
+* Go to Settings > Personalization > Colors
+* Select the Choose Color > Dark , like below:
+
+<img src="images/windows_config1.png">
+<br>
+<img src="images/windows_config2.png">
+<br>
+<img src="images/windows_config3.png">
