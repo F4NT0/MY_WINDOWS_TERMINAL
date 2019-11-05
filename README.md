@@ -1,7 +1,7 @@
 # Welcome to Windows Terminal
 
 * **Windows Terminal** is the new Shell CLI controler to Microsoft Windows 10 version 18362.0 or Later
-* It still in Beta Version but it works interesting!!
+* It still in Beta Version but it looks interesting!!
 
 ### The idea of this Repo
 
