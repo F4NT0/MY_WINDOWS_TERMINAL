@@ -1,7 +1,6 @@
-#!/bin/bash
+public class teste(){
+     public static void main(string[] agrs){
+         system.out.println("teste");
+      }
 
-# -------------------------------
-# TESTE DE ARQUIVO
-# --------------------------------
-
-- sudo apt-get install tmux
+}
